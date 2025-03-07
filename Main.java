@@ -17,3 +17,9 @@ public class Main {
         redhead.performSwim();
         redhead.performFly();
         System.out.println("---------------------");
+
+        rubber.display();
+        rubber.performQuack();
+        rubber.performSwim();
+        rubber.performFly();
+        System.out.println("---------------------");
