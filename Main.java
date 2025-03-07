@@ -11,3 +11,9 @@ public class Main {
         mallard.performSwim();
         mallard.performFly();
         System.out.println("---------------------");
+
+        redhead.display();
+        redhead.performQuack();
+        redhead.performSwim();
+        redhead.performFly();
+        System.out.println("---------------------");
