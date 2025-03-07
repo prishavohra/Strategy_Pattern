@@ -5,3 +5,9 @@ public class Main {
         Duck redhead = new RedheadDuck();
         Duck rubber = new RubberDuck();
         Duck decoy = new DecoyDuck();
+
+        mallard.display();
+        mallard.performQuack();
+        mallard.performSwim();
+        mallard.performFly();
+        System.out.println("---------------------");
