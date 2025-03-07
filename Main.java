@@ -23,3 +23,11 @@ public class Main {
         rubber.performSwim();
         rubber.performFly();
         System.out.println("---------------------");
+
+        decoy.display();
+        decoy.performQuack();
+        decoy.performSwim();
+        decoy.performFly();
+        System.out.println("---------------------");
+    }
+}
